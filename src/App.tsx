@@ -200,17 +200,17 @@ export default function App() {
                         <a href="#">
                             <img
                                 className='w-6 h-6 md:w-8 md:h-8'
-                                src="./assets/facebook.svg" alt="" />
+                                src="./assets/facebook.svg" alt="Facebook" />
                         </a>
                         <a href="#">
                             <img
                                 className='w-6 h-6 md:w-8 md:h-8'
-                                src="./assets/insta.svg" alt="" />
+                                src="./assets/insta.svg" alt="Insta" />
                         </a>
                         <a href="#">
                             <img
                                 className='w-6 h-6 md:w-8 md:h-8'
-                                src="./assets/twitter.svg" alt="" />
+                                src="./assets/twitter.svg" alt="Twitter" />
                         </a>
                     </section>
                 </section>
