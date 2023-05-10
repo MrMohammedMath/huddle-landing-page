@@ -125,7 +125,7 @@ export default function App() {
                 </article>
             </main>
 
-            <footer className='md:flex md:flex-row-reverse md:justify-between mt-64  bg-no-repeat bg-[url("./assets/footer-bg-mobile.svg")] md:bg-[url("./assets/footer-bg-desktop.svg")] bg-[length:130%] md:bg-[length:109%] md:bg-[left_bottom] pt-[109px] md:pt-72 px-7 md:px-32 pb-12 md:pb-28'>
+            <footer className='md:flex md:flex-row-reverse md:justify-between mt-64  bg-no-repeat bg-[url("../assets/footer-bg-mobile.svg")] md:bg-[url("../assets/footer-bg-desktop.svg")] bg-[length:130%] md:bg-[length:109%] md:bg-[left_bottom] pt-[109px] md:pt-72 px-7 md:px-32 pb-12 md:pb-28'>
 
                 <section>
                     <h5 className='font-openSans font-bold text-2xl text-white'>NEWSLETTER</h5>
